@@ -24,31 +24,29 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple"> C, Java and SQL. </b>
               </i>
               <br />
               <br />
               My field of Interest's are building new &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Blockchain.
-                </b>
+                <b className="purple">Web Technologies and Products. </b>
               </i>
               <br />
               <br />
               Whenever possible, I also apply my passion for developing products
               with <b className="purple">Node.js</b> and
+              <br />
+              <br />
               <i>
                 <b className="purple">
                   {" "}
-                  Modern Javascript Library and Frameworks
+                  Modern Deep Learning Frameworks
                 </b>
               </i>
-              &nbsp; like
+              &nbsp; for using in
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="purple"> Intrusion Detection System For Wireless Network</b>
               </i>
             </p>
           </Col>
